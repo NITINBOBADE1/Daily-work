@@ -1,0 +1,21 @@
+#function practice
+(0001) create function
+
+def my_function():
+   print("hello nitin")
+
+calling
+my_function()
+
+(0002) argument
+
+def my_function(fname):
+   print("fname + Refsnes")
+
+my_function("email")
+
+(0003)  
+
+def my_function(Fname, Lname):
+   print("Fname +" "+Lname")
+
